@@ -1,0 +1,16 @@
+.athuz {
+    text-decoration: line-through;
+}
+input[type="checkbox"] {
+    margin-right: 0.6em;
+}
+.jobbra {
+    float: right;
+    cursor: pointer;
+}
+input[type="text"] {
+    width: 100%;
+}
+#gomb {
+    width: 100%;
+}
